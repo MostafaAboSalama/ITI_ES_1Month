@@ -1,0 +1,20 @@
+/*
+ * TMR2_config.h
+ *
+ *  Created on: Aug 3, 2024
+ *      Author: user
+ */
+
+#ifndef TMR1_CONFIG_H_
+#define TMR1_CONFIG_H_
+
+	/* OPTIONS :
+			TMR1_PWM_TOG_ON_COMPARE_MATCH
+			TMR1_PWM_CLR_ON_COMPARE_MATCH
+			TMR1_PWM_SET_ON_COMPARE_MATCH
+	*/
+
+#define TMR1_PWM_OC1A_MODE		TMR1_PWM_CLR_ON_COMPARE_MATCH
+#define TMR1_PWM_OC1B_MODE		TMR1_PWM_SET_ON_COMPARE_MATCH
+
+#endif /* TMR1_CONFIG_H_ */
