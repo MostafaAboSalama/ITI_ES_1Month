@@ -46,7 +46,7 @@ The training covered various embedded systems concepts, programming, and interfa
 If you have any questions or suggestions, feel free to reach out to me:
 
 - **Email**: mostafaabosalama661@gmail.com
-- **LinkedIn**: www.linkedin.com/in/mostafa-abosalama-228640317
+- **LinkedIn**: https://www.linkedin.com/in/abosalama/
 - **GitHub**: https://github.com/MostafaAboSalama
 
 
